@@ -11,7 +11,6 @@
 <a href="https://github.com/shaongitt/boihut/network/members"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/shaongitt/boihut?style=social"></a>
 
 <h3 align="left"> Background: </h3>
-<p align="left"> <b>Boihut</b> is a a  book store built in Django as a first year university project. This project was aimed to increase my knowledge about django and python overall.
   
 <h3 align="left"> Features</p></h3>
 
@@ -47,12 +46,13 @@ python manage.py migrate --run-syncdb
 ```python
 python manage.py createsuperuser
 ```
+
 <h4 align="left">Credit: </h4>
 Developed by shaongitt(Siam)
 <h4 align="left">Other Credits: </h4>
 Books logo <a href="https://www.vecteezy.com/vector-art/1761577-stack-of-books-on-white-background"> vecteezy </a> <br>
 
-Books banner <a href="https://www.vecteezy.com/vector-art/3301225-design-stacks-of-books-about-mathematics">  vecteezy</a>  
+Books banner <a href="https://www.vecteezy.com/vector-art/3301225-design-stacks-of-books-about-mathematics"> vecteezy</a>
 
 <h3 align="left">License: </h4>
 <p class="left">Warning: This project is licensed Under BSD-2 so use with proper credits.</p>
